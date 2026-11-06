@@ -6,6 +6,7 @@ public class Headmaster extends SchoolPerson {
         this.yearsOfExperience = yearsOfExperience;
     }
 
+    
     public int getYearsOfExperience() {
         return yearsOfExperience;
     }
